@@ -64,7 +64,7 @@ a{
 	margin:0;
 	background-image:url("bg3.jpg");
 
-	height:365px;
+	height:auto;
 	width:100%;
 
 	
@@ -421,7 +421,7 @@ a{
 	text-align:justify;
 	
 }
-.picture-content-left{
+.picture-section-left{
 	
 		float:left;
 		width:23.5%;
@@ -430,12 +430,12 @@ a{
 		border-radius:5px;
 		background-color:#fff;
 		box-sizing:border-box;
-		height:350px;
-	
+		height:505px;
+		
 	
 	
 }
-.picture-content1{
+.picture-section-left1{
 	
 	overflow:hidden;
 		float:left;
@@ -445,10 +445,10 @@ a{
 		border-radius:5px;
 		background-color:#fff;
 		box-sizing:border-box;
-		height:350px;
+		height:505px;
 	
 }
-.picture-content2{
+.picture-section-left2{
 	
 	overflow:hidden;
 		float:left;
@@ -458,10 +458,10 @@ a{
 		border-radius:5px;
 		background-color:#fff;
 		box-sizing:border-box;
-		height:350px;
+		height:505px;
 	
 }
-.picture-content-right{
+.picture-section-right{
 	
 	overflow:hidden;
 		
@@ -471,10 +471,10 @@ a{
 		border-radius:5px;
 		background-color:#fff;
 		box-sizing:border-box;
-		height:350px;
+		height:505px;
 	
 }
-.picture-content h5{
+.picture-section h5{
 	font-family:"Open Sans", sans-serif;
 	font-size:14px;
 	font-weight:400;
@@ -482,10 +482,10 @@ a{
 	line-height:22px;
 	padding:12px 10px;
 	margin:0;
-	margin-top:5px;
+	
 	
 }
-.picture-content p{
+.picture-section p{
 	font-family:"Open Sans", sans-serif;
 	font-size:14px;
 	font-weight:400;
@@ -496,11 +496,11 @@ a{
 	
 	
 }
-.picture-content a{
+.picture-section a{
 	color:#FA7B7B;
 	
 }
-.picture-content a:hover{
+.picture-section a:hover{
 	color:#747474;
 	
 }
