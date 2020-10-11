@@ -216,32 +216,32 @@ a{
 
 .LATEST-NEWS{
 	float:left;
-	width:31.4%;
+	width:31.2%;
 	margin-right:2.5%;
 	display:block;
 	border:1px solid #048277;
-	height:830px;
+	height:850px;
 	border-radius:5px;
 }
 .EVENTS{
 	overflow:hidden;
 	float:left;
-	width:31.4%;
+	width:31.2%;
 	margin-right:2.5%;
 	display:block;
 	border:1px solid #048277;
-	height:830px;
+	height:850px;
 	border-radius:5px;
 	
 }
 .NOTICE-BOARD{
 	
 	overflow:hidden;
-	width:31.4%;
+	width:31.2%;
 	margin-right:2.5%;
 	display:block;
 	border:1px solid #048277;
-	height:830px;
+	height:850px;
 	border-radius:5px;
 }
 
@@ -316,9 +316,8 @@ a{
 }
 
 .icon-angle{
-	
 	text-align:right;
-	margin-top:20px;
+	margin-top:10px;
 	position:top 100px right 0;
 	
 }
@@ -332,15 +331,15 @@ a{
 .icon-angle i:hover{
 	background-color:#C52D2F;
 	color:#fff;
-	
+	margin-bottom:50px;
 }
 .hr-bottom1{
-	padding-top:598px;
+	padding-top:622px;
 
 }
 
 .hr-bottom{
-	padding-top:435px;
+	padding-top:415px;
 
 }
 
